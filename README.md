@@ -1,2 +1,1 @@
-# Jash-Shah
-IPM06103
+ITA Assignment 1
